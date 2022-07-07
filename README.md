@@ -1,4 +1,4 @@
-# CSSImageGallery
+# ImageGallery
 
 Versão Live: https://l3ovieira.github.io/CSSImageGallery/
 
